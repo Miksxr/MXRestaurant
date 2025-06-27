@@ -67,4 +67,4 @@ supabase.key=ВАШ_КЛЮЧ
 3. Отправьте Pull Request с описанием изменений  
 
 ## 📜 Лицензия  
-MIT License
+MX Studio Maxim Cardinal
